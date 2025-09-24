@@ -1,4 +1,4 @@
-# bigdata-storage-lab-l-pezgarcia
+# bigdata-storage-lab-lopezgarcia
 bigdata-storage-lab-<apellido>/
 │
 ├── data/
